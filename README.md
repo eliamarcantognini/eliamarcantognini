@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Elia Marcanntognini's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliamarcantognini&count_private=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,3bcfd4,11118c)](https://github.com/anuraghazra/github-readme-stats)
+[![Elia Marcanntognini's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliamarcantognini&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,3bcfd4,11118c)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
 <a href="https://github.com/eliamarcantognini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliamarcantognini&count_private=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,3bcfd4,11118c/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliamarcantognini&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliamarcantognini&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,3bcfd4,11118c"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliamarcantognini&layout=compact&langs_count=8&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,11118c,3bcfd4"/>
 </a>
 </p>
