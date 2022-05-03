@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/eliamarcantognini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliamarcantognini&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,3bcfd4,11118c"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliamarcantognini&layout=compact&langs_count=8&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,11118c,3bcfd4"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliamarcantognini&layout=compact&langs_count=10&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,11118c,3bcfd4&hide=html,css"/>
 </a>
 </p>
