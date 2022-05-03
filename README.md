@@ -1,4 +1,5 @@
-### Hi there 👋
+## Elia Marcantognini 👋
+#### MSc in Computer Science and Engineering @ Unibo
 
 <!--
 **eliamarcantognini/eliamarcantognini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
