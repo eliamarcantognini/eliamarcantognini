@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Elia Marcanntognini's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliamarcantognini&count_private=true&show_icons=true&theme=apprentice&bg_color=30,6deef2,2222b5)](https://github.com/anuraghazra/github-readme-stats)
+[![Elia Marcanntognini's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliamarcantognini&count_private=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=30,6deef2,2222b5)](https://github.com/anuraghazra/github-readme-stats)
 
