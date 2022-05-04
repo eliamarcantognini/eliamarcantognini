@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliamarcantognini&layout=compact&langs_count=10&theme=cobalt"/>
 </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://wakatime.com/@eliamarcantognini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=eliamarcantognini&theme=cobalt"/>
   </a>
-</p>
+</p> -->
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
