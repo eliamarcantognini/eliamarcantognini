@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 <p align="center">
-  <a href="https://github.com/eliamarcantognini">
+  <a href="https://wakatime.com/@eliamarcantognini">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=eliamarcantognini&theme=cobalt"/>
   </a>
 </p>
