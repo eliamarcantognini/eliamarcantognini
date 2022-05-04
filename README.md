@@ -25,6 +25,8 @@ Here are some ideas to get you started:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=eliamarcantognini&theme=cobalt"/>
   </a>
 </p>
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
   
