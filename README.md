@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eliamarcantognini&layout=compact&langs_count=10&theme=cobalt"/>
 </a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://wakatime.com/@eliamarcantognini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=eliamarcantognini&theme=cobalt"/>
+    <img height="180em" src="https://wakatime.com/share/@eliamarcantognini/2f1bd87d-b06d-4ad3-8354-73d6852ceed4.svg"/>
   </a>
-</p> -->
-<figure><embed src="https://wakatime.com/share/@eliamarcantognini/2f1bd87d-b06d-4ad3-8354-73d6852ceed4.svg"></embed></figure>
+</p>
+<!-- <figure><embed src="https://wakatime.com/share/@eliamarcantognini/2f1bd87d-b06d-4ad3-8354-73d6852ceed4.svg"></embed></figure> -->
