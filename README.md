@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://wakatime.com/@eliamarcantognini">
-    <img height="180em" src="https://wakatime.com/share/@eliamarcantognini/2f1bd87d-b06d-4ad3-8354-73d6852ceed4.svg"/>
+    <img height="500em" src="https://wakatime.com/share/@eliamarcantognini/2f1bd87d-b06d-4ad3-8354-73d6852ceed4.svg"/>
   </a>
 </p>
 <!-- <figure><embed src="https://wakatime.com/share/@eliamarcantognini/2f1bd87d-b06d-4ad3-8354-73d6852ceed4.svg"></embed></figure> -->
