@@ -26,9 +26,9 @@ Here are some ideas to get you started:
     <img height="380em" src="https://wakatime.com/share/@eliamarcantognini/c6392f86-4b1c-4c53-85f1-e33aa90443a6.svg"/>
     <embed src="https://wakatime.com/share/@eliamarcantognini/ac0fd0da-2ad4-4fe0-88da-ee1b2df352e7.svg"></embed>
   </a>
-  <a href="https://wakatime.com/@eliamarcantognini">
+  <figure href="https://wakatime.com/@eliamarcantognini">
     <img height="380em" src="https://wakatime.com/share/@eliamarcantognini/0a4be1f2-0cb0-4079-8979-5016cbe8a62c.svg"/>
-  </a>
+  </figure>
 </p>
 <!-- [![Waka](https://wakatime.com/share/@eliamarcantognini/ac0fd0da-2ad4-4fe0-88da-ee1b2df352e7.svg)](https://wakatime.com/@eliamarcantognini) -->
 
