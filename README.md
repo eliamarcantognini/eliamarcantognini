@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://wakatime.com/@eliamarcantognini">
-    <img height="380em" src="https://wakatime.com/share/@eliamarcantognini/c6392f86-4b1c-4c53-85f1-e33aa90443a6.svg"/>
-    <embed src="https://wakatime.com/share/@eliamarcantognini/ac0fd0da-2ad4-4fe0-88da-ee1b2df352e7.svg"></embed>
+    <img height="380em" src="https://wakatime.com/share/@eliamarcantognini/d4003131-3bf6-491a-83c7-eb212a18e3ee.png"/>
   </a>
   <figure href="https://wakatime.com/@eliamarcantognini">
-    <embed height="380em" src="https://wakatime.com/share/@eliamarcantognini/0a4be1f2-0cb0-4079-8979-5016cbe8a62c.svg"/>
+    <embed height="380em" src="https://wakatime.com/share/@eliamarcantognini/a037221f-0b3a-4d82-8ea0-37a57ef042f8.png"/>
   </figure>
 </p>
 <!-- [![Waka](https://wakatime.com/share/@eliamarcantognini/ac0fd0da-2ad4-4fe0-88da-ee1b2df352e7.svg)](https://wakatime.com/@eliamarcantognini) -->
