@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <embed src="https://wakatime.com/share/@eliamarcantognini/ac0fd0da-2ad4-4fe0-88da-ee1b2df352e7.svg"></embed>
   </a>
   <figure href="https://wakatime.com/@eliamarcantognini">
-    <img height="380em" src="https://wakatime.com/share/@eliamarcantognini/0a4be1f2-0cb0-4079-8979-5016cbe8a62c.svg"/>
+    <embed height="380em" src="https://wakatime.com/share/@eliamarcantognini/0a4be1f2-0cb0-4079-8979-5016cbe8a62c.svg"/>
   </figure>
 </p>
 <!-- [![Waka](https://wakatime.com/share/@eliamarcantognini/ac0fd0da-2ad4-4fe0-88da-ee1b2df352e7.svg)](https://wakatime.com/@eliamarcantognini) -->
