@@ -28,4 +28,10 @@ Here are some ideas to get you started:
     <img src="https://wakatime.com/share/@eliamarcantognini/82130ad1-bfb6-4ff8-b164-9de0bcb81f49.png"/>
   </a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=eliamarcantognini&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=eliamarcantognini&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=3"/>
+  </a>
+</p>
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=eliamarcantognini&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
