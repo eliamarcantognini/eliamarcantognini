@@ -1,5 +1,5 @@
 ## Elia Marcantognini 👋
-#### MSc in Computer Science and Engineering @ Unibo
+#### MSc in Cybersecurity
 
 <!--
 Here are some ideas to get you started:
@@ -30,11 +30,3 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center">
-  <a href="https://wakatime.com/@eliamarcantognini">
-    <img src="https://wakatime.com/share/@eliamarcantognini/d4003131-3bf6-491a-83c7-eb212a18e3ee.png"/>
-  </a>
-  <a href="https://wakatime.com/@eliamarcantognini">
-    <img src="https://wakatime.com/share/@eliamarcantognini/82130ad1-bfb6-4ff8-b164-9de0bcb81f49.png"/>
-  </a>
-</p>
